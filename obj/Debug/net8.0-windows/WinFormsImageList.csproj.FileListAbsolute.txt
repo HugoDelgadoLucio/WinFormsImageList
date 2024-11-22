@@ -1,0 +1,16 @@
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\bin\Debug\net8.0-windows\WinFormsImageList.exe
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\bin\Debug\net8.0-windows\WinFormsImageList.deps.json
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\bin\Debug\net8.0-windows\WinFormsImageList.runtimeconfig.json
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\bin\Debug\net8.0-windows\WinFormsImageList.dll
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\bin\Debug\net8.0-windows\WinFormsImageList.pdb
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\obj\Debug\net8.0-windows\WinFormsImageList.Form1.resources
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\obj\Debug\net8.0-windows\WinFormsImageList.csproj.GenerateResource.cache
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\obj\Debug\net8.0-windows\WinFormsImageList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\obj\Debug\net8.0-windows\WinFormsImageList.AssemblyInfoInputs.cache
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\obj\Debug\net8.0-windows\WinFormsImageList.AssemblyInfo.cs
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\obj\Debug\net8.0-windows\WinFormsImageList.csproj.CoreCompileInputs.cache
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\obj\Debug\net8.0-windows\WinFormsImageList.dll
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\obj\Debug\net8.0-windows\refint\WinFormsImageList.dll
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\obj\Debug\net8.0-windows\WinFormsImageList.pdb
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\obj\Debug\net8.0-windows\WinFormsImageList.genruntimeconfig.cache
+C:\Users\Hugod\Desktop\ProgramasVS\WinFormsImageList\obj\Debug\net8.0-windows\ref\WinFormsImageList.dll
